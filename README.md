@@ -5,7 +5,7 @@ Existen 2 versiones:
 
 - **index.html**: Es la version HTML, osea simulado pero en la web
 
-- **main.py**: La normal, requiere `pip install flet` y ejecutarse con `flet run chymelix.py` < Ejecutar en CMD
+- **chymelix.py**: La normal, requiere `pip install flet` y ejecutarse con `flet run chymelix.py` < Ejecutar en CMD
 
 ## Otras alternativas
 
